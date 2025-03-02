@@ -1,0 +1,4 @@
+type,value,description
+ip,192.168.1.1,Endereço IP suspeito
+hash,5d41402abc4b2a76b9719d911017c592,Malware detectado
+domain,malicious-site.com,Domínio de phishing
